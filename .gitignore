@@ -2,12 +2,12 @@
 _site
 .sass-cache
 .vagrant
-
+vendor/bundle/
 # general
 .DS_Store
 Thumbs.db
 ehthumbs.db
-
+.bundle/
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
